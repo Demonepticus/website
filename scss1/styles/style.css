@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* FONTS HERE */
 
 /* BODY HERE */
@@ -16,4 +17,24 @@ body {
     flex-direction: column;
     align-items: center;
   }
+=======
+/* FONTS HERE */
+
+/* BODY HERE */
+body {
+    background-color: #1f1f1f;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  /* WRAPPER HERE */
+  .wrapper {
+    max-width: 1440px;
+    height: 100vh;
+    margin: 0 auto;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+>>>>>>> db1848f12bb110f525d472649dbf888e89ce6086
   /* CONTENT HERE */
